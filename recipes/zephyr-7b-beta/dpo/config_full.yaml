@@ -18,7 +18,7 @@ evaluation_strategy: steps
 eval_steps: 500
 gradient_accumulation_steps: 1
 gradient_checkpointing: true
-hub_model_id: zephyr-7b-dpo-full-beta-debug-regression
+hub_model_id: zephyr-7b-dpo-full-debug-regression
 learning_rate: 5.0e-7
 log_level: info
 logging_steps: 10
